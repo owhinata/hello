@@ -24,7 +24,10 @@ setup(
             'hello_publisher_node = hello.hello_publisher_node:main',
             'hello_subscriber_node = hello.hello_subscriber_node:main',
             'hello_fizz_buzz_node = hello.hello_fizz_buzz_node:main',
-            'hello_service_node = hello.hello_service_node:main'
+            'hello_service_node = hello.hello_service_node:main',
+            'hello_cleint_node = hello.hello_client_node:main',
+            'bringme_action_server_node = hello.bringme_action_server_node:main',
+            'bringme_action_client_node = hello.bringme_action_client_node:main',
         ],
     },
 )

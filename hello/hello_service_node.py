@@ -5,7 +5,7 @@ from hello_interfaces.srv import StringCommand
 
 class HelloServiceNode(Node):
     def __init__(self):
-        super().__init__('happy_fizz_buzz_node')
+        super().__init__('hello_service_node')
         self.food = ['apple', 'banana', 'candy']
         self.service = self.create_service(StringCommand, 'command', self.callback)
 
