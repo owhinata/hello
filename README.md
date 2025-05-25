@@ -19,7 +19,7 @@ https://github.com/owhinata/hello/blob/7367a61a3bd983c083accf576f48f8c9cd4e77b5/
 💡 need [hello_interfaces](https://github.com/owhinata/hello_interfaces)
 
 ## Add entory points
-https://github.com/owhinata/hello/blob/7367a61a3bd983c083accf576f48f8c9cd4e77b5/setup.py#L21-L29
+https://github.com/owhinata/hello/blob/ebe46125d39bb33a41b2cd2bcc089f930e52050c/setup.py#L21-L32
 
 ## build and setup
 ```
